@@ -2048,10 +2048,25 @@
    3. 把人文关怀和心理疏导有机结合起来
    4. 有效发挥政府的主导作用
 
+7. 中国特色社会主义事业总体布局是
+   1. <font color="#F56C6C">五位一体</font>
+   2. 四个全面
+   3. 十个明确
+   4. 一国两制 
 
+<font color="#F56C6C"></font> 红色
 
+<font color="#409EFF"></font> 蓝色
 
+<font color="#909399"></font> 灰色
 
+# 第十二章 建设社会主义生态文明
+
+## 坚持人与自然和谐共生
+
+### 生态兴则文明兴  主观题
+
+1. <font color="#409EFF">**生态环境变化直接影响文明的兴衰掩替**</font>
 
 
 
@@ -2066,6 +2081,32 @@
 <font color="#409EFF"></font> 蓝色
 
 <font color="#909399"></font> 灰色
+
+## 建设美丽中国
+
+
+
+<font color="#F56C6C"></font> 红色
+
+<font color="#409EFF"></font> 蓝色
+
+<font color="#909399"></font> 灰色
+
+## 共谋全球生态文明建设之路
+
+
+
+
+
+
+
+<font color="#F56C6C"></font> 红色
+
+<font color="#409EFF"></font> 蓝色
+
+<font color="#909399"></font> 灰色
+
+## 练习
 
 # 帽子题
 
