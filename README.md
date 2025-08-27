@@ -2928,14 +2928,6 @@
     4. 反浪费主义
 
 
-
-
-<font color="#F56C6C"></font> 红色
-
-<font color="#409EFF"></font> 蓝色
-
-<font color="#909399"></font> 灰色
-
 # 帽子题
 
 ## 全面建设社会主义国家的
@@ -3006,3 +2998,21 @@
 
 <font color='#EF4444'>**治**</font>是<font color='#EF4444'>**要害**</font>
 
+## 年份题
+
+1. <font color="#F56C6C">**2003年是第十届全国人大，五年一届，第一次会议常在3月份**</font> 
+2. 2021年9月，习近平在<font color="#F56C6C">第六十七届</font>联合国大会上提出全球发展倡议  <font color="#F56C6C">**六七倡议**</font>
+3. 2013年3月，<font color="#F56C6C">十三届全国人大四次会议</font>通过《全国人民代表大会关于完善香港特别行政区选举制度的决定》 <font color="#F56C6C">**134 ，香港选举要三思**</font>
+4. 2020年5月，<font color="#F56C6C">十三届全国人大三次会议</font>通过《全国人民代表大会关于建立健全香港特别行政区维护国家安全的法律制度和执行机制的决定》 <font color="#F56C6C">**国家安全 133**</font>
+5. 党的<font color="#F56C6C">二十大</font>对推进国家安全体系和能力现代化、坚决维护国家安全和社会稳定作出战略部署  <font color="#F56C6C">**20大 安全稳定**</font>
+6. <font color="#F56C6C">十九届五中全会</font>首次把统筹发展和安全纳入“十四五”时期我国经济社会发展的指导思想  <font color="#F56C6C">**195-145**</font>
+
+
+
+
+
+<font color="#F56C6C"></font> 红色
+
+<font color="#409EFF"></font> 蓝色
+
+<font color="#909399"></font> 灰色
