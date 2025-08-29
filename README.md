@@ -3016,15 +3016,19 @@
 14. 党的<font color='#EF4444'>十五大</font>明确提出形成中国特色社会主义法律体系的重大任务  <font color='#EF4444'>**十五大 形成法律大任务**</font>
 15. <font color='#EF4444'>**2020年臭氧层贡献最大**</font>
 16. <font color='#EF4444'>**113 改革开放 183 深化改革开放 184 依法治国 185 新发展 194 找三共**</font>
-12. 党的<font color="#F56C6C">十八届三中全会</font>提出创新社会治理体制  <font color="#F56C6C">**社会治理体制 183**</font>
-13. 党的<font color="#F56C6C">十九届四中全会</font>提出，要完善党委领导、政府负责、民主协商、共同参与、法治保障、科技支撑的社会治理体系 <font color="#F56C6C">**社会治理体系 194**</font>
-14. <font color="#F56C6C">市域</font>是基层治理的前线位置
-15. 社会主义法治最根本的保证是<font color="#F56C6C">党的领导</font>
-16. 维护社会公平正义的最后一道防线是<font color="#F56C6C">司法公正</font>
-17. 国家治理体系的骨干工程是<font color="#F56C6C">法治体系</font>
-18. 制度的==生命力==在于<font color="#F56C6C">执行</font>，==关键==在真抓，==靠==的是<font color="#F56C6C">严管</font>
-19. 党的什么以来就选<font color="#F56C6C">**十八大**</font>
-20. 全过程人民民主载体<font color="#F56C6C">人民代表大会制度</font>
+17. 党的<font color="#F56C6C">十八届三中全会</font>提出创新社会治理体制  <font color="#F56C6C">**社会治理体制 183**</font>
+18. 党的<font color="#F56C6C">十九届四中全会</font>提出，要完善党委领导、政府负责、民主协商、共同参与、法治保障、科技支撑的社会治理体系 <font color="#F56C6C">**社会治理体系 194**</font>
+19. <font color="#F56C6C">市域</font>是基层治理的前线位置
+20. 社会主义法治最根本的保证是<font color="#F56C6C">党的领导</font>
+21. 维护社会公平正义的最后一道防线是<font color="#F56C6C">司法公正</font>
+22. 国家治理体系的骨干工程是<font color="#F56C6C">法治体系</font>
+23. 制度的==生命力==在于<font color="#F56C6C">执行</font>，==关键==在真抓，==靠==的是<font color="#F56C6C">严管</font>
+24. 党的什么以来就选<font color="#F56C6C">**十八大**</font>
+25. 全过程人民民主载体<font color="#F56C6C">人民代表大会制度</font>
+26. 民生的==重中之重==<font color="#F56C6C">利益问题</font>，==重要方针==<font color="#F56C6C">尽力而为，量力而行</font>
+27. <font color="#F56C6C">协商民主制度</font>是实践全过程人民民主的重要形式
+28. <font color="#F56C6C">人民代表大会制度</font>是我国的根本政治制度
+29. <font color="#F56C6C">2021年10月</font> 全过程民主，系统阐述
 
 
 
